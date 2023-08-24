@@ -1,4 +1,3 @@
-pip install langchain
 from langchain.agents import ConversationalChatAgent, AgentExecutor
 from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
