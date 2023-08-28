@@ -3,3 +3,5 @@ pandas
 langchain==0.0.268
 openai
 duckduckgo-search
+pandas
+tabulate
