@@ -6,3 +6,4 @@ duckduckgo-search
 pandas
 tabulate
 matplotlib
+pandasai==0.2.2
